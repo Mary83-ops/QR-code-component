@@ -12,7 +12,7 @@
 
 body {
     background-color: var(--lightGray);
-    min-height: 50vw;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,3 +46,4 @@ p {
     color: var(--grayishBlue);
     padding-left: 10px;
 }
+
