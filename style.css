@@ -20,30 +20,30 @@ body {
 }
 
 main {
-    width: 320px;
-    padding: 18px;
-    border-radius: 20px;
+    width: 20rem;
+    padding: 1.125rem;
+    border-radius: 1.25rem;
     background-color: white;
-    box-shadow: 0px 3px 25px;
+    box-shadow: 0rem 0.188rem 1.563rem;
 }
 
 main img {
     max-width: 100%;
-    border-radius: 10px;
+    border-radius: 0.625rem;
 }
 
 h1 {
     text-align: center;
-    margin: 20px 0;
-    padding-left: 10px; 
+    margin: 1.25rem 0;
+    padding-left: 0.625rem; 
     font-size: 1.4rem;
     color: var(--darkBlue);
 }
 
 p {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
     color: var(--grayishBlue);
-    padding-left: 10px;
+    padding-left: 0.625rem;
 }
 
